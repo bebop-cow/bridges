@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@200;300&display=swap');
 
 body {
-  background-color: #e1ccd1;
+  background-color: #f9f1f3;
 }
 
 .h1 {
@@ -18,7 +18,7 @@ body {
   box-sizing: border-box;
   border: 1px solid #710303;
   border-radius: 4px;
-  background-color: #9c5052;
+  background-color: #e1ccd1;
   padding: 10px 10px 10px 20px;
   transition: width 0.4s ease-in-out;
 }
