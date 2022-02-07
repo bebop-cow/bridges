@@ -10,18 +10,16 @@ body {
   font-family: 'Barlow Semi Condensed', sans-serif !important;
   font-weight: 300 !important;
   line-height: 1.5;
-  text-align: left;
   color: #710303;
 }
 
 .search {
   width: 130px;
   box-sizing: border-box;
-  border: 2px solid #ccc;
+  border: 1px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
-  background-color: white;
-  background-image: url('searchicon.png');
+  background-color: #710303;
   background-position: 10px 10px;
   background-repeat: no-repeat;
   padding: 12px 20px 12px 40px;
