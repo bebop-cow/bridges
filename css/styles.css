@@ -16,11 +16,10 @@ body {
 .search {
   width: 130px;
   box-sizing: border-box;
-  border: 1px solid #ccc;
+  border: 1px solid white;
   border-radius: 4px;
   font-size: 16px;
   background-color: #710303;
-  padding: 12px 20px 12px 40px;
   transition: width 0.4s ease-in-out;
 }
 
