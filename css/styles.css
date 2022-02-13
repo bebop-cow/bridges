@@ -13,6 +13,10 @@ body {
   color: #710303;
 }
 
+.text{
+  text-align: center;
+}
+
 .search {
   width: 70%;
   box-sizing: border-box;
